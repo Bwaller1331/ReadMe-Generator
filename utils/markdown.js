@@ -47,7 +47,14 @@ ${data.tests}
 ${licenseInfo(data)}
 
 ## Questions
-${data.Questions}`
+${data.Questions}
+
+## This ReadMe was created using the ReadME Generator
+`
+
 }
+
+
+
 
 module.exports = GenMark;
